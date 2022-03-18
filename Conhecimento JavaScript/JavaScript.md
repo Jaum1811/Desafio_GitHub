@@ -1,4 +1,4 @@
-# JavaScript  :computer:
+# 									JavaScript  :computer:
 
 > Imagina que o *HTML* é a estrutura, o *CSS* é o design, o **JavaScript** é a parte interativa do desenvolvimento.
 
